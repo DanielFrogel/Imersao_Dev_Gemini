@@ -75,12 +75,12 @@ section button {
     margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
     padding: 1rem; /* Espaçamento interno */
     border-radius: 0.6rem; /* Borda arredondada */
-    background: var(--amarelo-brasil);
+    /* background: var(--amarelo-brasil); */
 }
 
 /* Estiliza cada item de resultado */
 .item-resultado {
-    background: var(--cinza-claro);
+    background: #FFF;
     border: 1px solid var(--cinza-escuro); /* Adiciona uma borda fina */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
